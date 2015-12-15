@@ -1,5 +1,8 @@
 # chat-rooms
 
+### CR-mongo
+	Connect mongodb
+
 ### CR-1 Create scheme for Users
 	User containts fields:
 		login
